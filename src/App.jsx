@@ -22,7 +22,7 @@ const App = () => {
       name: "Aloha Chicken",
       description: "A pineapple lover's dream with juicy pineapple chunks and succulent shredded chicken!",
       price: 13.99,
-      image: "https://www.dominos.com.my/ManagedAssets/MY/product/PXAC/MY_PXAC_en_hero_12818.jpg?v-339418131",
+      image: "aloha.avif",
     },
   ];
 
