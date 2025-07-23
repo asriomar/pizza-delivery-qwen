@@ -5,24 +5,24 @@ const App = () => {
   const initialMenuItems = [
     {
       id: 1,
-      name: "Pepperoni Pizza",
-      description: "Classic pepperoni with mozzarella cheese",
+      name: "Beef Pepperoni",
+      description: "Filled with juicy beef pepperoni. Mmm, definitely a classic for every pepperoni lover!",
       price: 14.99,
-      image: "https://placehold.co/300x200?text=Pepperoni+Pizza",
+      image: "https://www.dominos.com.my/ManagedAssets/MY/product/PXBP/MY_PXBP_en_hero_12818.jpg?v-1592705885",
     },
     {
       id: 2,
-      name: "Margherita Pizza",
-      description: "Tomato sauce, fresh mozzarella, and basil",
+      name: "Tuna Temptation",
+      description: "Tuna Chunks, crab meat, mushrooms, onions and pineapple on our Top Secret Sauce.",
       price: 12.99,
-      image: " https://placehold.co/300x200?text=Margherita+Pizza",
+      image: "https://www.dominos.com.my/ManagedAssets/MY/product/PGGT/MY_PGGT_en_hero_12818.jpg?v-1515331270",
     },
     {
       id: 3,
-      name: "Vegetarian Pizza",
-      description: "Fresh vegetables with mozzarella cheese",
+      name: "Aloha Chicken",
+      description: "A pineapple lover's dream with juicy pineapple chunks and succulent shredded chicken!",
       price: 13.99,
-      image: " https://placehold.co/300x200?text=Vegetarian+Pizza",
+      image: "https://www.dominos.com.my/ManagedAssets/MY/product/PXAC/MY_PXAC_en_hero_12818.jpg?v-339418131",
     },
   ];
 
