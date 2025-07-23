@@ -2,7 +2,7 @@ import React, { useState, useEffect, useCallback, useMemo } from "react";
 
 const App = () => {
   // Mock data for menu items
-  const initialMenuItems = [
+const initialMenuItems = [
     {
       id: 1,
       name: "Beef Pepperoni",
@@ -23,6 +23,20 @@ const App = () => {
       description: "A pineapple lover's dream with juicy pineapple chunks and succulent shredded chicken!",
       price: 13.99,
       image: "https://www.dominos.com.my/ManagedAssets/MY/product/PXAC/MY_PXAC_en_hero_12818.jpg?v-339418131",
+    },
+    {
+      id: 4,
+      name: "Spicy Beef Mac & Cheesy with Ultimate Sausage Crust",
+      description: "The ultimate cheesy indulgence. Your fav Mac & Cheese Pasta now in Pizza format!​.",
+      price: 20.99,
+      image: "https://www.dominos.com.my/ManagedAssets/MY/product/PCBS/MY_PCBS_en_hero_15248.jpg?v-1441872167",
+    },
+    {
+      id: 5,
+      name: "Meatasaurus",
+      description: "Meat lover's favorite! Loaded with up to 50% more ground beef and beef pepperoni on smoky BBQ sauce.",
+      price: 13.99,
+      image: "https://www.dominos.com.my/ManagedAssets/MY/product/PQMT/MY_PQMT_en_hero_12818.jpg?v-1378393518",
     },
   ];
 
